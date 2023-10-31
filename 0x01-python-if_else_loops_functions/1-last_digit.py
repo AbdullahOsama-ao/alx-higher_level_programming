@@ -18,3 +18,4 @@ def checkMsg(n=number):
     elif (n != 0 and n < 6):
         return (" and is less than 6 and not 0")
 print("Last digit of {} is {}{}".format(number, lastDigit(number), checkMsg()))
+
