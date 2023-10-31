@@ -1,6 +1,3 @@
-# Higher-level programming - Python, Databases & JavaScript
+# Python - Programming Snake ..!
 
 This repository contains programs written for the higher-level programming
-track at Holberton School.
-
-yes
