@@ -29,4 +29,3 @@ Write the Python function def magic_calculation(a, b): that does exactly the sam
 
 task 9:
 Write a program that prints the alphabet in uppercase, followed by a new line.
-
