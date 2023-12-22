@@ -8,7 +8,7 @@ This repository contains programs written for the higher-level programming
 - git clone https://(your_token)#github.com/(partner_userName)/(repo).git
 - git remote set-url origin https://USERNAME:TOKEN@github.com/USERNAME/REPOSITORY.git
 
-<br> <br>
+<br>
 
 - pythond code style checker :
 - pycodestyle filename.py
