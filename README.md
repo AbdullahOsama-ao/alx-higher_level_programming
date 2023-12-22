@@ -11,7 +11,6 @@ This repository contains programs written for the higher-level programming
 <br> <br>
 
 - pythond code style checker :
-- we will use pycodestyle ....
 - pycodestyle filename.py
 - pycodestyle filename.py
 - pycodestyle --show-source filename.py
