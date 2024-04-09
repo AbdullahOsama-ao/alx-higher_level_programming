@@ -25,3 +25,18 @@ This repository contains programs written for the higher-level programming
 ### How to install (pip command) onto your Terminal:
 - https://youtu.be/dpQEs6tE1XU?si=BCT9FlcXilCYb4bF
 - https://youtu.be/8AKT73QODZM?si=YWvtizUXw1rCXK9w
+
+
+# JavaScript - Amazements Starting!
+
+## Install Node 14
+- curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+- sudo apt-get install -y nodejs
+
+## Install semi_standared (JS style enhancer)
+- Docs 	  : https://intranet.alxswe.com/rltoken/35q5Pc6A6KWPyd3kGeRQFg
+- Install : sudo npm install semistandard --global
+- Info.   : Your code should be semistandard compliant (version 16.x.x) according to:
+- 1. Rules of Standared => https://intranet.alxswe.com/rltoken/1T1yg1vOAChRN20Yyz8crw
+- 2. Semicolons on top => https://intranet.alxswe.com/rltoken/35q5Pc6A6KWPyd3kGeRQFg
+- 3. Also as reference (Airbnb style) => https://intranet.alxswe.com/rltoken/ilo9MmB3u0utJZjZat-W3Q
