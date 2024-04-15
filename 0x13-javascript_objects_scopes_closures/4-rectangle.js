@@ -9,23 +9,23 @@ class Rectangle {
 
   print () {
     for (let i = 0; i < this.height; i++) {
-      let s = '';
+      let str = '';
       for (let j = 0; j < this.width; j++) {
-        s += 'X';
+        str += 'X';
       }
-      console.log(s);
+      console.log(str);
     }
   }
 
   rotate () {
-    const aux = this.width;
+    const temp = this.width;
     this.width = this.height;
-    this.height = aux;
+    this.height = temp;
   }
 
   double () {
-    this.width *= 2;
-    this.height *= 2;
+    this.width = this.width * 2;
+    this.height = this.height * 2;
   }
 }
 

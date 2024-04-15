@@ -1,1 +1,1 @@
-# Objects & Scopes in JS
+Objects, Scopes, and Closures In JS
