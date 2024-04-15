@@ -1,1 +1,1 @@
-# Python Relational Mapping
+# Object Relational Mapping => ORM
